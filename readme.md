@@ -7,6 +7,7 @@ A project for a full stack MERN application, practice for app architecture, rout
 - OAuth authentication
 - Routing
 - dev vs prod keys/environments
+- cookie and session management
 
 ### Tech
 
