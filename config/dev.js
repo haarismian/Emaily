@@ -1,5 +1,4 @@
 // dev.js don't commit this
-
 module.exports = {
   googleClientID:
     '195921937422-rroe5ovviqkv4skank78e1mjippvld8v.apps.googleusercontent.com',
