@@ -8,6 +8,7 @@ A project for a full stack MERN application, practice for app architecture, rout
 - Routing
 - dev vs prod keys/environments
 - cookie and session management
+- seperate front and backend servers for scalability and decoupling
 
 ### Tech
 
