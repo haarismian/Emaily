@@ -15,6 +15,8 @@ A project for a full stack MERN application, practice for app architecture, rout
 This project uses the following technologies to operate:
 
 - React
+- Redux
+- React router
 - MongoDB
 - PassportJS
 - ExpressJS
